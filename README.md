@@ -3,7 +3,7 @@
 ### Date: November 8th, 2019
 ### Place: APCTP Headquarters
 
-간식과 저녁은 덤으로!
+물리학을 전공한 선배들의 재미있는 이야기, 그리고 간식과 저녁은 덤으로!
 
 ## 연사
 * 김다니엘 (Merck Sharp & Dohme) *제약회사에서의 AI* 
