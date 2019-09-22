@@ -8,9 +8,9 @@
 ## Speaker
 * 김다니엘 (Merck Sharp & Dohme) *제약회사에서의 AI* 
 * 송태근 (POSTECH) *물리학과 머신러닝*
-* 신정규 ([Lablup](https://lablup.com)) *AI/머신러닝 분산처리 플랫폼* 
+* [신정규](https://github.com/inureyes) ([Lablup](https://lablup.com)) *AI/머신러닝 분산처리 플랫폼* 
 * 왕지성 ([VUNO](https://www.vuno.co/)) *AI와 음성인식*
-* 윤진혁 (KISTI) *빅데이터와 물리학*
+* [윤진혁](http://stat.kaist.ac.kr/~jhyun/) (KISTI) *빅데이터와 물리학*
 * 최정열 ([쎄트렉아이](https://www.satreci.com/)) *AI와 인공위성* 
 
 ## Schedule
