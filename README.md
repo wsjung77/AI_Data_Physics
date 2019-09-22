@@ -3,6 +3,8 @@
 ### Date: November 8th, 2019
 ### Place: APCTP Headquarters
 
+간식과 저녁은 덤으로!
+
 ## 연사
 * 김다니엘 (Merck Sharp & Dohme) - 제약회사에서의 AI 
 * 송태근 (POSTECH) 물리학과 머신러닝
