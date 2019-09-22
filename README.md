@@ -1,7 +1,7 @@
 # AI, Data and Physics Workshop
 
-# Date: November 8th, 2019
-# Place: APCTP Headquarters
+### Date: November 8th, 2019
+### Place: APCTP Headquarters
 
 ## 연사
 * 김다니엘 (Merck Sharp & Dohme) - 제약회사에서의 AI 
