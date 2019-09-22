@@ -11,7 +11,7 @@
 * [신정규](https://github.com/inureyes) ([Lablup](https://lablup.com)) *AI/머신러닝 분산처리 플랫폼* 
 * 왕지성 ([VUNO](https://www.vuno.co/)) *AI와 음성인식*
 * [윤진혁](http://stat.kaist.ac.kr/~jhyun/) (KISTI) *빅데이터와 물리학*
-* 최정열 ([쎄트렉아이](https://www.satreci.com/)) *AI와 인공위성* 
+* 최정열 ([SI Analytics](https://www.si-analytics.ai/)) *AI와 인공위성* 
 
 ## Schedule
 * 12:00-01:00 Registration
