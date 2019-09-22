@@ -5,7 +5,7 @@
 
 물리학을 전공한 선배들의 재미있는 이야기, 그리고 간식과 저녁은 덤으로!
 
-## 연사
+## Speaker
 * 김다니엘 (Merck Sharp & Dohme) *제약회사에서의 AI* 
 * 송태근 (POSTECH) *물리학과 머신러닝*
 * 신정규 ([Lablup](https://lablup.com)) *AI/머신러닝 분산처리 플랫폼* 
@@ -13,7 +13,7 @@
 * 윤진혁 (KISTI) *빅데이터와 물리학*
 * 최정열 ([쎄트렉아이](https://www.satreci.com/)) *AI와 인공위성* 
 
-## 일정
+## Schedule
 * 12:00-01:00 Registration
 * 01:00-01:45 Talk 1
 * 01:45-02:30 Talk 2
