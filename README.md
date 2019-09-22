@@ -25,6 +25,9 @@
 * 05:45-06:30 Talk 6
 * 06:30-08:30 Dinner (Buffet)
 
+## Registration
+* [Registration (참가신청)](https://forms.gle/NCvK7JfEcmgqCwAaA)
+
 ## Host
 * [APCTP (Asia Pacific Center for Theoretical Physics)](http://apctp.org)
 * [POSTECH Physics](http://magnon1.postech.ac.kr)
