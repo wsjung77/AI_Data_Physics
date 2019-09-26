@@ -30,4 +30,4 @@
 
 ## Host
 * [APCTP (Asia Pacific Center for Theoretical Physics)](http://apctp.org)
-* [POSTECH Physics](http://magnon1.postech.ac.kr)
+* [POSTECH Physics Department](http://magnon1.postech.ac.kr)
