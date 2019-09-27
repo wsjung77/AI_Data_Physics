@@ -14,16 +14,16 @@
 * 최정열 ([SI Analytics](https://www.si-analytics.ai/)) *AI와 인공위성* 
 
 ## Schedule
-* 12:00-01:00 Registration
-* 01:00-01:45 Talk 1
-* 01:45-02:30 Talk 2
-* 02:30-03:00 Coffee Break
-* 03:00-03:45 Talk 3
-* 03:45-04:30 Talk 4
+* 01:00-02:00 Registration
+* 02:00-02:30 Talk 1
+* 02:30-03:00 Talk 2
+* 03:00-03:30 Coffee Break
+* 03:30-04:00 Talk 3
+* 04:00-04:30 Talk 4
 * 04:30-05:00 Coffee Break
-* 05:00-05:45 Talk 5
-* 05:45-06:30 Talk 6
-* 06:30-08:30 Dinner (Buffet)
+* 05:00-05:30 Talk 5
+* 05:30-06:00 Talk 6
+* 06:00-08:00 Dinner (Buffet)
 
 ## Registration
 * [Registration (참가신청)](https://forms.gle/NCvK7JfEcmgqCwAaA)
