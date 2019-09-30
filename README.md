@@ -15,14 +15,14 @@
 
 ## Schedule
 * 01:00-02:00 Registration
-* 02:00-02:30 Talk 1
-* 02:30-03:00 Talk 2
+* 02:00-02:30 송태근 (POSTECH)
+* 02:30-03:00 윤진혁 (KISTI)
 * 03:00-03:30 Coffee Break
-* 03:30-04:00 Talk 3
-* 04:00-04:30 Talk 4
+* 03:30-04:00 왕지성 (VUNO)
+* 04:00-04:30 최정열 (SIA)
 * 04:30-05:00 Coffee Break
-* 05:00-05:30 Talk 5
-* 05:30-06:00 Talk 6
+* 05:00-05:30 신정규 (Lablup)
+* 05:30-06:00 김영호 (Merck Sharp & Dohme)
 * 06:00-08:00 Dinner (Buffet)
 
 ## Registration
