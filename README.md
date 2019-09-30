@@ -6,7 +6,7 @@
 물리학을 전공한 선배들의 재미있는 이야기, 그리고 간식과 저녁은 덤으로!
 
 ## Speaker (tentative)
-* [김영호](http://danielykim.me/) (Merck Sharp & Dohme) *제약회사에서의 AI* 
+* [김영호](http://danielykim.me/) (Merck Sharp & Dohme) *어쩌다보니 데이터 과학자* 
 * 송태근 (POSTECH) *물리학과 머신러닝*
 * [신정규](https://github.com/inureyes) ([Lablup](https://lablup.com)) *AI/머신러닝 분산처리 플랫폼* 
 * 왕지성 ([VUNO](https://www.vuno.co/)) *AI와 음성인식*
