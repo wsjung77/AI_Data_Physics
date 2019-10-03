@@ -7,7 +7,7 @@
 
 ## Speaker 
 * [김영호](http://danielykim.me/) (Merck Sharp & Dohme) 
-* 송태근 (POSTECH) 
+* 송태근 ([POSTECH](http://ph.postech.ac.kr)) 
 * [신정규](https://github.com/inureyes) ([Lablup](https://lablup.com))  
 * 왕지성 ([VUNO](https://www.vuno.co/)) 
 * [윤진혁](http://stat.kaist.ac.kr/~jhyun/) ([KISTI](http://www.kisti.re.kr)) 
