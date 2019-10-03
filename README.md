@@ -1,7 +1,7 @@
 # AI, Data and Physics Workshop
 
 ### Date: November 8th, 2019
-### Place: APCTP Headquarters
+### Place: [APCTP Headquarters](https://www.apctp.org/contents/index.php?idcid=111&mcode=111) (Pohang, Korea)
 
 물리학을 전공한 선배들의 재미있는 이야기, 그리고 간식과 저녁은 덤으로!
 
