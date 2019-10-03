@@ -6,7 +6,7 @@
 물리학을 전공한 선배들의 재미있는 이야기, 그리고 간식과 저녁은 덤으로!
 
 ## Speaker 
-* [김영호](http://danielykim.me/) (Merck Sharp & Dohme) 
+* [김영호](http://danielykim.me/) ([Merck Sharp & Dohme](https://www.msd-korea.com/)) 
 * 송태근 ([POSTECH](http://ph.postech.ac.kr)) 
 * [신정규](https://github.com/inureyes) ([Lablup](https://lablup.com))  
 * 왕지성 ([VUNO](https://www.vuno.co/)) 
