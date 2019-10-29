@@ -11,7 +11,7 @@
 * [신정규](https://github.com/inureyes) ([Lablup](https://lablup.com))  
 * 왕지성 ([VUNO](https://www.vuno.co/)) 
 * [윤진혁](http://stat.kaist.ac.kr/~jhyun/) ([KISTI](http://www.kisti.re.kr)) 
-* 최정열 ([SI Analytics](https://www.si-analytics.ai/)) 
+* 최정렬 ([SI Analytics](https://www.si-analytics.ai/)) 
 
 ## Schedule (tentative)
 * 01:00-02:00 Registration
